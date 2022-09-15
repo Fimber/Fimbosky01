@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fimbosky01
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any projrcts that would get me more experience
+- 💞️ I’m looking to collaborate on any projects that would get me more experience
 - 📫 How to reach me fimber6@gmail.com
 
 <!---
